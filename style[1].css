@@ -1,0 +1,101 @@
+* {box-sizing: border-box;}
+
+body { font-family: 'Raleway', Arial, Helvetica, sans-serif;
+        margin: 0;
+    }
+
+h1 {font-size: 35px;}
+
+p {font-size: 16px;}
+
+a{text-transform: none;}
+
+.banner {
+    background: url(../img/banner-gabi4.png) center no-repeat;
+    background-size: cover;
+    height: 400px 800px;
+}
+
+.banner__conteudo {
+    padding: 350px;   
+}
+
+.banner__titulo {
+    font-size: 50px;
+    margin-bottom: 35;
+    color: #fff;
+}
+
+.banner__subtitulo {
+    font-size: 24px;
+    color: #FFDEAD
+}
+
+.botao {
+    background-color: #800000;
+    color:	#fff;
+    border-radius: 20px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1080px;
+    margin-top: 90px;
+}
+
+.sobre-titulo {
+    font-size: 40px;
+    color: #2F4F4F;
+}
+
+.sobre {
+    display: flex;
+}
+
+.sobre__descricao, .sobre__habilidades   {
+    width: 50%;
+    line-height: 30px;
+        
+}
+
+.sobre__habilidades {
+    margin-left: 20px;
+  
+}
+
+.sobre__habilidades-lista {
+    font-size: 18px;
+    justify-content: space-around;
+    
+}
+
+.sobre__cv {
+    border: 1px solid #800000;
+}
+
+.sobre__cv{
+    background-color: #800000;
+    color: #fff;
+    border-radius: 20px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+}
+
+/*Redes Sociais*/
+
+.redes-sociais {
+    display: flex;
+    justify-content: space-around;
+}
+
+.redes-sociais__link {
+    background-color: #2F4F4F;
+    color:#fff;
+    padding: 20px 40px;
+    border-radius: 20px;
+
+}
