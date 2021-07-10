@@ -1,4 +1,5 @@
-# pjaginaPessoal
+PÁGINA PESSOAL:
 
-Página pessoal feita no Workshop Reprograma de Front end
-(Ainda em processo de finalização)
+Aprendizado do básico de HTML e CSS construindo uma página pessoal na prática, feita no Workshop Reprograma de Front End.
+DISPONÍVEL EM: 
+
